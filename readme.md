@@ -33,7 +33,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Unlocking the Invisible Elevator: Accessibility at Tech Conferences](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) by [Liz Henry](https://twitter.com/lizhenry)
 
 ### Marketing and Advertisement
-[Marketing Without a Marketing Budget](https://beyondtellerrand.com/blog/marketing-without-a-marketing-budget) by [Marc Thiele](https://twitter.com/marcthiele)
+- [Marketing Without a Marketing Budget](https://beyondtellerrand.com/blog/marketing-without-a-marketing-budget) by [Marc Thiele](https://twitter.com/marcthiele)
 
 ## Resources
 
