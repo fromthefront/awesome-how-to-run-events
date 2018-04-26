@@ -24,13 +24,15 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [How to Organize a Conference: 18 Amazingly Useful Tips](https://medium.com/tedx-experience/how-to-organize-a-conference-567fb50ccdbd) by [Louis Rosenfeld](https://twitter.com/louisrosenfeld)
 - [Organising Front-end Meetings or Conferences in Your Own Town](https://www.quirksmode.org/blog/archives/2010/10/organising_fron.html) by [Peter-Paul Koch](https://twitter.com/ppk)
 
-
 ### Inclusivity
 - [Conferences I Won't Be Speaking At](https://medium.com/@fox/conferences-i-wont-be-speaking-at-a60b9beed97b) by [Karolina Szczur](https://twitter.com/fox)
 - [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) by [Kara Sowles](https://twitter.com/FeyNudibranch)
 - ["Help! Someone Has Pointed Out My Conference Has Diversity Issues!"](https://medium.com/samsung-internet-dev/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c) by [Ada Rose Cannon](https://twitter.com/Lady_Ada_King)
 - [Conference Speaking, Transparency and Fairness](https://rachelandrew.co.uk/archives/2014/05/02/conference-speaking-transparency-and-fairness/) by [Rachel Andrew](https://twitter.com/rachelandrew)
 - [Unlocking the Invisible Elevator: Accessibility at Tech Conferences](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) by [Liz Henry](https://twitter.com/lizhenry)
+
+### Marketing and Advertisement
+[Marketing Without a Marketing Budget](https://beyondtellerrand.com/blog/marketing-without-a-marketing-budget) by [Marc Thiele](https://twitter.com/marcthiele)
 
 ## Resources
 
