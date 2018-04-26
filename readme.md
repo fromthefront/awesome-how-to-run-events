@@ -11,6 +11,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Articles](#articles)
     - [Setting up a conference](#setting-up-a-conference)
     - [Inclusivity](#inclusivity)
+    - [Marketing and Advertisement](#marketing-and-advertisement)
 - [Resources](#resources)
     - [Guides](#guides)
     - [Services](#services)
@@ -31,6 +32,9 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - ["Help! Someone Has Pointed Out My Conference Has Diversity Issues!"](https://medium.com/samsung-internet-dev/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c) by [Ada Rose Cannon](https://twitter.com/Lady_Ada_King)
 - [Conference Speaking, Transparency and Fairness](https://rachelandrew.co.uk/archives/2014/05/02/conference-speaking-transparency-and-fairness/) by [Rachel Andrew](https://twitter.com/rachelandrew)
 - [Unlocking the Invisible Elevator: Accessibility at Tech Conferences](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) by [Liz Henry](https://twitter.com/lizhenry)
+
+### Marketing and Advertisement
+- [Marketing Without a Marketing Budget](https://beyondtellerrand.com/blog/marketing-without-a-marketing-budget) by [Marc Thiele](https://twitter.com/marcthiele)
 
 ## Resources
 
