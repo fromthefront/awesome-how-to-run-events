@@ -24,7 +24,6 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [How to Organize a Conference: 18 Amazingly Useful Tips](https://medium.com/tedx-experience/how-to-organize-a-conference-567fb50ccdbd) by [Louis Rosenfeld](https://twitter.com/louisrosenfeld)
 - [Organising Front-end Meetings or Conferences in Your Own Town](https://www.quirksmode.org/blog/archives/2010/10/organising_fron.html) by [Peter-Paul Koch](https://twitter.com/ppk)
 - [Creating the Schedule](https://beyondtellerrand.com/blog/creating-the-schedule) by [Marc Thiele](https://twitter.com/marcthiele)
-- [Finding the Right Swag for Your Event](https://beyondtellerrand.com/blog/finding-the-right-swag) by [Marc Thiele](https://twitter.com/marcthiele)
 
 ### Inclusivity
 - [Conferences I Won't Be Speaking At](https://medium.com/@fox/conferences-i-wont-be-speaking-at-a60b9beed97b) by [Karolina Szczur](https://twitter.com/fox)
@@ -38,6 +37,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 ### Guides
 - [Conference Organiser's Handbook](https://www.quirksmode.org/coh/) - _So you want to organise a conference. Great; do it. It’s a lot of work, but it’s also very rewarding, and it will put your city on the map for your topic_ by [Peter-Paul Koch](https://twitter.com/ppk)
 - [Diversity Charter](https://diversitycharter.org) - _We care about diversity at conferences and events because we want them to be better for everyone._
+- [Finding the Right Swag for Your Event](https://beyondtellerrand.com/blog/finding-the-right-swag) - _A short article about how to find the right swag for your event and about how to teach your sponsors to also add someting memorable of value for the attendees and something that does not just add to the massive landfill_ by [Marc Thiele](https://twitter.com/marcthiele)
 
 ### Services
 - [Diversity Tickets](https://diversitytickets.org/) - _We help events reach a more diverse audience. And we help you to find these events._
