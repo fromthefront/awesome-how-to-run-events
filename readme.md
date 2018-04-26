@@ -18,7 +18,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 
 ## Articles
 
-### Setting up a conference
+### Setting up a Conference
 - [Putting on a Conference](https://adactio.com/journal/12595) by [Jeremy Keith](https://twitter.com/adactio)
 - [How to Plan and Run a Great Conference Experience](https://www.smashingmagazine.com/2014/08/plan-and-run-a-great-conference/) by [Zach Inglis](https://twitter.com/zachinglis)
 - [How to Organize a Conference: 18 Amazingly Useful Tips](https://medium.com/tedx-experience/how-to-organize-a-conference-567fb50ccdbd) by [Louis Rosenfeld](https://twitter.com/louisrosenfeld)
@@ -44,7 +44,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Papercall.io](https://www.papercall.io/) - _The easy way to manage your call for papers_
 - [Ti.to](https://ti.to/) - _Simple, powerful, event software—just add people._
 
-### Good practices
+### Good Practices
 - [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices) - _Did you like anything in particular about a conference? Did you hate anything? Let's make organizing conferences an easier task_ by [Kristijan Ristovski](https://twitter.com/thekitze)
 - [The Less Obvious Conference Checklist](https://github.com/mxsasha/lessobviouschecklist) - _This is a checklist for conference organisers of less obvious things. It’s easy will remember to book a venue, look for speakers and sell the tickets, but you could overlook many small things that can help your conference stand out._ by [Sasha Romijn](https://twitter.com/mxsash)
 
