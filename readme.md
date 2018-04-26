@@ -11,6 +11,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Articles](#articles)
     - [Setting up a conference](#setting-up-a-conference)
     - [Inclusivity](#inclusivity)
+    - [Marketing and Advertisement](#marketing-and-advertisement)
 - [Resources](#resources)
     - [Guides](#guides)
     - [Services](#services)
