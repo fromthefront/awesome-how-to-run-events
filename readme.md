@@ -53,6 +53,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices) - _Did you like anything in particular about a conference? Did you hate anything? Let's make organizing conferences an easier task_ by [Kristijan Ristovski](https://twitter.com/thekitze)
 - [The Less Obvious Conference Checklist](https://github.com/mxsasha/lessobviouschecklist) - _This is a checklist for conference organisers of less obvious things. It’s easy will remember to book a venue, look for speakers and sell the tickets, but you could overlook many small things that can help your conference stand out._ by [Sasha Romijn](https://twitter.com/mxsash)
 - [Best Practices for Call for Papers](https://colloq.io/blog/best-practices-for-call-for-papers) - _Best practices and some tips to improve your call for papers._ by [Anselm Hannemann](https://twitter.com/helloanselm)
+- [Better Feedback for Talk Proposals](https://colloq.io/blog/better-feedback-for-talk-proposals) - _Thoughts and suggestions on how to provide better feedback for speakers’ call for proposal submissions._ by [Holger Bartel](https://twitter.com/foobartel)
 
 ## Contribute
 
