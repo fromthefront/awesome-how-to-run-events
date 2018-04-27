@@ -47,6 +47,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Diversity Tickets](https://diversitytickets.org/) - _We help events reach a more diverse audience. And we help you to find these events._
 - [Papercall.io](https://www.papercall.io/) - _The easy way to manage your call for papers_
 - [Ti.to](https://ti.to/) - _Simple, powerful, event software—just add people._
+- [Colloq](https://colloq.io/) - _Event service for organizers (with call for papers support and more) and for people to find and manage events._
 
 ### Good Practices
 - [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices) - _Did you like anything in particular about a conference? Did you hate anything? Let's make organizing conferences an easier task_ by [Kristijan Ristovski](https://twitter.com/thekitze)
