@@ -10,6 +10,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 
 - [Articles](#articles)
     - [Setting up a conference](#setting-up-a-conference)
+    - [Setting up a meetup](#setting-up-a-meetup)
     - [Inclusivity](#inclusivity)
     - [Marketing and Advertisement](#marketing-and-advertisement)
 - [Resources](#resources)
@@ -25,6 +26,9 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [How to Organize a Conference: 18 Amazingly Useful Tips](https://medium.com/tedx-experience/how-to-organize-a-conference-567fb50ccdbd) by [Louis Rosenfeld](https://twitter.com/louisrosenfeld)
 - [Organising Front-end Meetings or Conferences in Your Own Town](https://www.quirksmode.org/blog/archives/2010/10/organising_fron.html) by [Peter-Paul Koch](https://twitter.com/ppk)
 - [Creating the Schedule](https://beyondtellerrand.com/blog/creating-the-schedule) by [Marc Thiele](https://twitter.com/marcthiele)
+
+### Setting up a Meetup
+- [How to run a Meetup](https://hackernoon.com/how-to-run-a-meetup-297ef448d157) by [Nik Graf](https://twitter.com/nikgraf)
 
 ### Inclusivity
 - [Conferences I Won't Be Speaking At](https://medium.com/@fox/conferences-i-wont-be-speaking-at-a60b9beed97b) by [Karolina Szczur](https://twitter.com/fox)
