@@ -39,7 +39,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Marketing Without a Marketing Budget](https://beyondtellerrand.com/blog/marketing-without-a-marketing-budget) by [Marc Thiele](https://twitter.com/marcthiele)
 
 ### Case Studies
-- [What I’ve learned hosting Meetups in 2017 — and why I’m looking forward to 2018](https://medium.freecodecamp.org/reflecting-on-hosting-meetups-in-2017-5d28d1db074d) by [Daniel Deutsch](https://www.linkedin.com/in/createdd/)
+- [What I’ve Learned Hosting Meetups in 2017 — and Why I’m Looking Forward to 2018](https://medium.freecodecamp.org/reflecting-on-hosting-meetups-in-2017-5d28d1db074d) by [Daniel Deutsch](https://www.linkedin.com/in/createdd/)
 
 ## Resources
 
