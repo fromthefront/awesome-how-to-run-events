@@ -53,6 +53,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Papercall.io](https://www.papercall.io/) - _The easy way to manage your call for papers_
 - [Ti.to](https://ti.to/) - _Simple, powerful, event software—just add people._
 - [Colloq](https://colloq.io/) - _Event service for organizers (with call for papers support and more) and for people to find and manage events._
+- [Picatic](https://www.picatic.com) - _Powerful event registration platform for event organizers, developers, non-profits, and enterprise. Strong API support and competitive pricing for paid events._
 
 ### Good Practices
 - [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices) - _Did you like anything in particular about a conference? Did you hate anything? Let's make organizing conferences an easier task_ by [Kristijan Ristovski](https://twitter.com/thekitze)
