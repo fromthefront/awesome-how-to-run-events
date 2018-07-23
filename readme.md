@@ -37,6 +37,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 
 ### Marketing and Advertisement
 - [Marketing Without a Marketing Budget](https://beyondtellerrand.com/blog/marketing-without-a-marketing-budget) by [Marc Thiele](https://twitter.com/marcthiele)
+- [15 Social Media Tactics To Increase Your Event Exposure](https://blog.picatic.com/15-social-media-tactics-increase-event-marketing-exposure/) by [Chris Chu](https://blog.picatic.com/author/chrischu/)
 
 ### Case Studies
 - [What I’ve Learned Hosting Meetups in 2017 — and Why I’m Looking Forward to 2018](https://medium.freecodecamp.org/reflecting-on-hosting-meetups-in-2017-5d28d1db074d) by [Daniel Deutsch](https://www.linkedin.com/in/createdd/)
@@ -53,6 +54,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Papercall.io](https://www.papercall.io/) - _The easy way to manage your call for papers_
 - [Ti.to](https://ti.to/) - _Simple, powerful, event software—just add people._
 - [Colloq](https://colloq.io/) - _Event service for organizers (with call for papers support and more) and for people to find and manage events._
+- [Picatic](https://www.picatic.com) - _Powerful event registration platform for event organizers, developers, non-profits, and enterprise. Strong API support and competitive pricing for paid events._
 
 ### Good Practices
 - [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices) - _Did you like anything in particular about a conference? Did you hate anything? Let's make organizing conferences an easier task_ by [Kristijan Ristovski](https://twitter.com/thekitze)
