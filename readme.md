@@ -37,6 +37,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 
 ### Marketing and Advertisement
 - [Marketing Without a Marketing Budget](https://beyondtellerrand.com/blog/marketing-without-a-marketing-budget) by [Marc Thiele](https://twitter.com/marcthiele)
+- [15 Social Media Tactics To Increase Your Event Exposure](https://blog.picatic.com/15-social-media-tactics-increase-event-marketing-exposure/) by [Chris Chu](https://blog.picatic.com/author/chrischu/)
 
 ### Case Studies
 - [What I’ve Learned Hosting Meetups in 2017 — and Why I’m Looking Forward to 2018](https://medium.freecodecamp.org/reflecting-on-hosting-meetups-in-2017-5d28d1db074d) by [Daniel Deutsch](https://www.linkedin.com/in/createdd/)
