@@ -53,6 +53,7 @@ Feel free to join us on our [Spectrum Group](https://spectrum.chat/events-organi
 - [Papercall.io](https://www.papercall.io/) - _The easy way to manage your call for papers_
 - [Ti.to](https://ti.to/) - _Simple, powerful, event software—just add people._
 - [Colloq](https://colloq.io/) - _Event service for organizers (with call for papers support and more) and for people to find and manage events._
+- [No Stairs Please](https://nostairsplease.com/) - _Searchable directory of 4,500+ US and British Columbia live-music venues with step-free accessibility details, load-in notes, capacity, and tour routing._
 
 ### Good Practices
 - [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices) - _Did you like anything in particular about a conference? Did you hate anything? Let's make organizing conferences an easier task_ by [Kristijan Ristovski](https://twitter.com/thekitze)
